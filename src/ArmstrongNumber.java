@@ -1,5 +1,3 @@
-package batch4; // Use the same package as your friend's project if needed
-
 import java.util.Scanner;
 
 public class ArmstrongNumber {
@@ -31,3 +29,4 @@ public class ArmstrongNumber {
         return sum == originalNum;
     }
 }
+
